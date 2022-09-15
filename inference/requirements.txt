@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+google-cloud-storage
+pandas
+lightgbm
+fastapi
+starlette
